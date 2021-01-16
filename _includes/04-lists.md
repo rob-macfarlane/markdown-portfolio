@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. Pancakes
+2. Waterskiing
+  1. Trick skiing
